@@ -1,6 +1,6 @@
 {
   "name": "portholes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "author": "Francois Laberge <francoislaberge@gmail.com>",
   "main": "src/index.js",
